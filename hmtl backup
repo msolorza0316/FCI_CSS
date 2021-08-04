@@ -1,0 +1,39 @@
+<div class="grid-container">
+
+<div class="grid-item grid-item-1">           
+<h1 class="fin-text-navy">Compare and save</h1>
+<h2 class="fin-text-navy2">Get multiple quotes from 65+ providers in minutes</h2>
+<button class="luna-button luna-button--success luna-button--large buttonCenter" type="button" style="border-radius: 10px;" >Compare rates</button>
+
+</div>
+
+
+  <div class="grid-item grid-item-2">
+    <img class="woman-image" src="https://dvh1deh6tagwk.cloudfront.net/finder-us/wp-uploads/2021/08/girl_pointing_left_getty_images_564x662-copy.png" style=" text-align: left;">
+  </div>
+ 
+</div>
+
+<div class="content has-padding-top-large exclusive-offers-container1">
+<div class="u-grid">
+  <div class="u-grid__col u-1/6@s u-1/3">
+    <div class="gridExample"><img src="https://dvh1deh6tagwk.cloudfront.net/finder-us/wp-uploads/2019/12/Allstate-insurance-logo_supplied_450x250.png"></div> 
+  </div>
+  <div class="u-grid__col u-1/6@s u-1/3">
+    <div class="gridExample"><img src="https://dvh1deh6tagwk.cloudfront.net/finder-us/wp-uploads/2021/04/mercuryInsurance_logo_provided_450x250.jpg"></div> 
+  </div>
+  <div class="u-grid__col u-1/6@s u-1/3">
+    <div class="gridExample"><img src="https://dvh1deh6tagwk.cloudfront.net/finder-us/wp-uploads/2019/04/clearcover-logo_supplied_450x250.png"></div> 
+  </div>
+    <div class="u-grid__col u-1/6@s u-1/3">
+    <div class="gridExample"><img src="https://dvh1deh6tagwk.cloudfront.net/finder-us/wp-uploads/2021/04/USAA-logo_Supplied_450x250.png"></div> 
+  </div>
+  <div class="u-grid__col u-1/6@s u-1/3">
+    <div class="gridExample"><img src="https://dvh1deh6tagwk.cloudfront.net/finder-us/wp-uploads/2017/06/USFCI-travelers-image.jpg"></div> 
+  </div>
+  <div class="u-grid__col u-1/6@s u-1/3">
+    <div class="gridExample"><img src="https://dvh1deh6tagwk.cloudfront.net/finder-us/wp-uploads/2020/06/Assurance-logo_supplied_450x250.jpg"></div>
+  </div>
+ 
+</div>
+</div>
