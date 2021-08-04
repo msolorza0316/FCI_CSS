@@ -1,0 +1,125 @@
+<style>
+.grid-container {
+  display: grid;
+  background-color: #0271e1;
+  grid-auto-rows:  minmax(600px, auto);
+  //border: 1px solid rgba(0, 0, 0, 0.8);
+  grid-template-columns: .8fr .5fr;
+
+}
+
+.grid-item {
+  //border: 1px solid rgba(0, 0, 0, 0.8);
+text-align: center;
+
+}
+
+
+.buttonCenter{
+text-align: center;
+
+}
+
+.authorBox, 
+.authorBox box,
+.ask-question,
+.footer
+.content-thermometer
+{
+display: none;
+}
+
+
+.has-padding-top-large {
+    padding-top: 2em;
+}
+
+.comparison-calculator {
+    position: relative;
+}
+
+
+body {
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased;
+    color: #242a2f;
+    font-family: "Source Sans Pro",Helvetica,Arial,sans-serif;
+    font-size: 1rem;
+    line-height: 1.5;
+}
+
+.templateTable__lastUpdatedContainer {
+    text-align: right;
+}
+
+.u-grid--gutterCollapse {
+    margin-left: 0;
+    margin-right: 0;
+}
+
+
+#banner-c {
+border-radius: 15px:
+text-align: center;
+}
+
+
+
+
+h1.fin-text-navy {
+  font-size: 850%;
+padding-top: 40px;
+padding-left: 80px;
+line-height: .9;
+text-align: center;
+}
+
+h2.fin-text-navy2{
+  font-size: 400%;
+padding-top: 20px;
+text-align: center;
+line-height: 1.5;
+padding-left: 80px;
+padding-bop: 20px;
+}
+
+
+@media (max-width: 500px){
+h1.fin-text-navy {
+font-size: 500%;
+line-height: .9;
+text-align: center;
+padding-left: 0px;
+padding-top: 50px;
+margin-bottom: 25px;
+}
+
+
+.woman-image{
+display: none;
+}
+
+
+h2.fin-text-navy2{
+font-size: 200%;
+text-align: center;
+line-height: 1.5;
+padding-left: 0px;
+margin-bottom: 50px;
+}
+
+.grid-container {
+  grid-template-columns: 1fr 0fr;
+  grid-auto-rows:  minmax(500px, auto);
+
+}
+
+.buttonCenter{
+width: 90%;
+padding: 16px;
+font-size: 35px;
+}
+
+}//end media
+
+</style>
